@@ -7,4 +7,4 @@ Contains all code and data for my DATA 1030 Presentation and Final Project: Unde
 
 [Results](results) contains all the models in pickle format.
 
-[src](src) contains all code for the midterm and final.
+[src](src) contains all code for the midterm and final, as well as a yaml file for the depencies required.
